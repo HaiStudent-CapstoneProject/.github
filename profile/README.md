@@ -42,7 +42,7 @@
 | Learning Path       | Tools/Frameworks                                   |  
 |---------------------|---------------------------------------------------|  
 | **Machine Learning** | TensorFlow, Python, Jupyter Notebook               |  
-| **Cloud Computing** | Google Cloud Platform (Cloud Run, App Engine, Firbase, Cloud Storage)      |  
+| **Cloud Computing** | Google Cloud Platform (Cloud Run, App Engine, Firebase, Cloud Storage, Firestore), MongoDB Atlas      |  
 | **Mobile Development** | Kotlin                                   |  
 
 ---
