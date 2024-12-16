@@ -1,7 +1,9 @@
-# HaiStudent! 📚✨  
-*Empowering students to excel through intelligent solutions.*  
+<div align="center">
+   <img src="../asset/img/banner.png" alt="MasterHead" style="width: 100%; max-height: 400px; object-fit: cover;" />
+</div>
 
----
+<h1 align="center">HiStudent!</h1>
+<h3 align="center"><i>Learn Together, Grow Smarter</i></h3>
 
 ## 🚀 Project Overview  
 
@@ -11,7 +13,7 @@
 - **Cloud Computing:** Menjamin aplikasi berjalan dengan performa tinggi dan dapat diakses di mana saja.  
 - **Mobile Development:** Menghadirkan pengalaman belajar yang interaktif dan ramah pengguna di perangkat genggam.  
 
----
+
 
 ## ✨ Fitur Unggulan  
 
@@ -29,7 +31,7 @@
 - Mode offline untuk akses materi di tempat tanpa jaringan.  
 - Fitur gamifikasi: kumpulkan poin dengan menyelesaikan tugas belajar.  
 
----
+
 
 ## 🛠️ Arsitektur dan Teknologi  
 
@@ -45,7 +47,7 @@
 | **Cloud Computing** | Google Cloud Platform (Cloud Run, App Engine, Firebase, Cloud Storage, Firestore), MongoDB Atlas      |  
 | **Mobile Development** | Kotlin                                   |  
 
----
+
 
 ## 💡 How It Works  
 
@@ -55,7 +57,7 @@
 4. **Machine Learning** merekomendasikan materi berdasarkan kebiasaan belajar siswa.  
 5. Siswa dapat **mengikuti study group** dengan fitur chat real-time dan berbagi file.  
 
----
+
 
 ## 📈 Roadmap
  Implementasi rekomendasi belajar dengan Machine Learning.
@@ -80,12 +82,5 @@
 
 ## 💬 Feedback
 Kami selalu terbuka untuk saran dan masukan! Jangan ragu untuk membuka issue atau kirimkan email ke haistudent@gmail.com.
-
----
-
-## 📜 Lisensi
-Proyek ini dilisensikan di bawah MIT License.
-
-Together, let’s make learning accessible and enjoyable for everyone! 🌟
 
 ---
